@@ -1,2 +1,2 @@
 # LeetCode_Everyday
-My LeetCode solutions
+My LeetCode solutions, update daily
